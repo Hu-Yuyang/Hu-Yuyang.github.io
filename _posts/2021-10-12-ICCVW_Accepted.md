@@ -1,5 +1,5 @@
 ---
-title: 'ICCVW accepted'
+title: 'ICCVW Accepted'
 date: 2021-10-12
 ---
 
