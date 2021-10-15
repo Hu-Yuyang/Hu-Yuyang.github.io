@@ -17,7 +17,7 @@ Currently, my research of interests include inverse problem, Parallel image, dee
 <h1> News </h1>
 
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
+{% capture 2021 %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
