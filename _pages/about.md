@@ -17,7 +17,7 @@ Currently, my research of interests include inverse problem, Parallel image, dee
 <h1> News </h1>
 
 {% include base_path %}
-{% capture 2021 %}'None'{% endcapture %}
+{% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
@@ -27,3 +27,11 @@ Currently, my research of interests include inverse problem, Parallel image, dee
   {% include archive-single.html %}
 {% endfor %}
 
+<div style="display: none;">
+  <h6>Page views:</h6>
+  <a href="https://www.hitwebcounter.com" target="_blank">
+  <img src="https://hitwebcounter.com/counter/counter.php?page=7680519&style=0007&nbdigits=5&type=page&initCount=0" title="Total Website Hits" Alt="Web Hits" border="0" /></a>
+  <h6>Unique visitors</h6>
+  <a href="https://www.hitwebcounter.com" target="_blank">
+  <img src="https://hitwebcounter.com/counter/counter.php?page=7680520&style=0007&nbdigits=5&type=ip&initCount=0" title="Total Website Hits" Alt="Web Hits" border="0" /></a>
+</div>
