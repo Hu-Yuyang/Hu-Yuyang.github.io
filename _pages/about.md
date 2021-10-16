@@ -1,6 +1,6 @@
 ---
 permalink: /
-<!-- layout: archive -->
+layout: archive
 title: "About me"
 excerpt: "About me"
 author_profile: true
@@ -16,7 +16,6 @@ Currently, my research of interests include inverse problem, parallel MRI recons
 <p>&nbsp;</p>
 
 <h1> News </h1>
-
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
