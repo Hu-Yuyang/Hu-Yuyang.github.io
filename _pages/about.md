@@ -18,7 +18,6 @@ Currently, my research of interests include inverse problem, parallel MRI recons
 <h1> News </h1>
 
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% include archive-single.html %}  
 {% endfor %}
