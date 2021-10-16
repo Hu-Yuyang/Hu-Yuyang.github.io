@@ -1,5 +1,5 @@
 ---
-title: 'ICCVW Accepted'
+title:'ICCVW Accepted'
 date: 2021-10-12
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **ICCV Workshop (LCI) Accepted:** Our paper *"SS-JIRCS: Self-Supervised Joint Image Reconstruction and Coil Sensitivity
