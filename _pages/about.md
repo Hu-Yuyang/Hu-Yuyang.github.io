@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the <a href="https://cigroup.wustl.edu/">Computational Imaging Group</a> with the Department of ESE at Washington University in St. Louis. Before that, I received my Master's degree in Electrical Engineering at Washington University in St. Louis. My research advisor is <a href="https://cigroup.wustl.edu/ulugbek-s-kamilov/"> Prof. Ulugbek Kamilov</a>.
+I am a second-year Ph.D. student in the <a href="https://cigroup.wustl.edu/">Computational Imaging Group</a> with the Department of ESE at Washington University in St. Louis. Before that, I received my Master's degree in Electrical Engineering at Washington University in St. Louis. My research advisor is <a href="https://cigroup.wustl.edu/ulugbek-s-kamilov/"> Prof. Ulugbek Kamilov</a>.
 
 Currently, my research of interests include inverse problem, parallel MRI reconstruction and large-scale optimization. 
 
