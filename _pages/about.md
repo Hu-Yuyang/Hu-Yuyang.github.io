@@ -25,15 +25,13 @@ latest_posts:
   enabled: false
 ---
 
-I am a Research Scientist at Google's Computational Imaging Team (LUMA) and a Ph.D. student in Electrical Engineering at Washington University in St. Louis, advised by <a href="https://kamilov.com/">Prof. Ulugbek Kamilov</a>.
+I am a Research Scientist at Google's Computational Imaging Team (LUMA) and a Ph.D. student in Electrical Engineering at Washington University in St. Louis, advised by <a href="https://kamilov.com/">Prof. Ulugbek Kamilov</a>. I was a Research Intern at Mitsubishi Electric Research Laboratories (MERL) and a Student Researcher at Google before joining full-time.
 
-My research focuses on **computational imaging**, **inverse problems**, and **deep learning**. I develop fast, efficient, and interpretable algorithms for solving large-scale imaging problems. My recent work spans:
+My research focuses on **computational imaging**, **Image/Video Generative Model**, and **deep learning**. I develop fast, efficient, and interpretable algorithms for solving large-scale imaging problems. My recent work spans:
 
-- **Inference-time guidance** for diffusion models in image restoration (NeurIPS 2025)
+- **Inference-time Scaling** for diffusion models in image restoration (NeurIPS 2025)
 - **Plug-and-play priors** by generalizing regularization-by-denoising to leverage pre-trained restoration networks (ICLR 2024, ICML 2025)
 - **Self-supervised MRI reconstruction** with automatic coil sensitivity estimation (MRM 2024)
 - **Multimodal diffusion models** for satellite image cloud removal (IEEE TGRS)
 
-I received my M.S. from WashU with a 4.0 GPA and B.S. from Nanjing Tech University. I was a Research Intern at Mitsubishi Electric Research Laboratories (MERL) and a Student Researcher at Google before joining full-time.
-
-**Research Interests:** Computational Imaging, Inverse Problems, Image Restoration, Optimization, Deep Learning
+**Research Interests:** Image/Video Generative Model, Computational Imaging, Inverse Problems, Image Restoration, Deep Learning
