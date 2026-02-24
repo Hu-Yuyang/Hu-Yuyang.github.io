@@ -31,7 +31,6 @@ My research focuses on **computational imaging**, **Image/Video Generative Model
 
 - **Inference-time Scaling** for diffusion models in image restoration (NeurIPS 2025)
 - **Plug-and-play priors** by generalizing regularization-by-denoising to leverage pre-trained restoration networks (ICLR 2024, ICML 2025)
-- **Self-supervised MRI reconstruction** with automatic coil sensitivity estimation (MRM 2024)
 - **Multimodal diffusion models** for satellite image cloud removal (IEEE TGRS)
 
 **Research Interests:** Image/Video Generative Model, Computational Imaging, Inverse Problems, Image Restoration, Deep Learning
