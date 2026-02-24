@@ -14,13 +14,13 @@ Personal academic website built with [al-folio](https://github.com/alshedivat/al
 
 ## Deploy to GitHub Pages
 
-To deploy at `https://Yuyang-Hu.github.io`:
+To deploy at `https://Hu-Yuyang.github.io`:
 
-1. Create a new repository named `Yuyang-Hu.github.io` on GitHub (or use "Use this template" from al-folio)
+1. Create a new repository named `Hu-Yuyang.github.io` on GitHub (or use "Use this template" from al-folio)
 2. Push this project to the repository:
    ```bash
    cd al-folio-website
-   git remote set-url origin https://github.com/Yuyang-Hu/Yuyang-Hu.github.io.git
+   git remote set-url origin https://github.com/Hu-Yuyang/Hu-Yuyang.github.io.git
    git add .
    git commit -m "Initial commit: Yuyang Hu academic website"
    git push -u origin main
