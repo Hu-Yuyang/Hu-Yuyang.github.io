@@ -30,7 +30,7 @@ I am a Research Scientist at Google's Computational Imaging Team (LUMA) and a Ph
 My research focuses on **computational imaging**, **Image/Video Generative Model**, and **deep learning**. I develop fast, efficient, and interpretable algorithms for solving large-scale imaging problems. My recent work spans:
 
 - **Inference-time Scaling** for diffusion models in image restoration (NeurIPS 2025)
-- **Plug-and-play priors** by generalizing regularization-by-denoising to leverage pre-trained restoration networks (ICLR 2024, ICML 2025)
-- **Multimodal diffusion models** for satellite image cloud removal (IEEE TGRS)
+- **Plug-and-play priors** by generalizing regularization-by-denoising to leverage pre-trained restoration networks (MRM, NeurIPS 2023, ICLR 2024, ICML 2025)
+- **Multimodal diffusion models** for computational imaging (IEEE ISBI, IEEE TGRS)
 
 **Research Interests:** Image/Video Generative Model, Computational Imaging, Inverse Problems, Image Restoration, Deep Learning
