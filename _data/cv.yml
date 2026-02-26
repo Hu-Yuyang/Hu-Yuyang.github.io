@@ -33,17 +33,8 @@ cv:
         studyType: MS
         start_date: 2020
         end_date: 2022
-        score: 4.0/4.0
         highlights:
           - Outstanding Master's Research Award
-
-      - institution: Nanjing Tech University
-        location: Nanjing, China
-        area: Electronic and Information Engineering
-        studyType: BE
-        start_date: 2016
-        end_date: 2020
-        score: 3.79/4.0
 
     Experience:
       - company: Google
@@ -74,9 +65,3 @@ cv:
       - title: WUSTL Dean's Select PhD Fellowship
         date: 2021
         awarder: Washington University in St. Louis
-      - title: NJTECH U Outstanding Graduate (top 2%)
-        date: 2020
-        awarder: Nanjing Tech University
-      - title: NJTECH U First-Class Scholarship (top 5%)
-        date: 2016
-        awarder: Nanjing Tech University
