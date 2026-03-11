@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Research Scientist at Google's Computational Imaging Team (LUMA) and a Ph.D. student in Electrical Engineering at Washington University in St. Louis, advised by <a href="https://kamilov.com/">Prof. Ulugbek Kamilov</a>. I was a Research Intern at Mitsubishi Electric Research Laboratories (MERL) and a Student Researcher at Google before joining full-time.
+I am a Research Scientist at Google AI and a Ph.D. student in Electrical Engineering at Washington University in St. Louis, advised by <a href="https://kamilov.com/">Prof. Ulugbek Kamilov</a>. I was a Research Intern at Mitsubishi Electric Research Laboratories (MERL) and a Student Researcher at Google before joining full-time.
 
 My research focuses on **computational imaging**, **Image/Video Generative Model**, and **deep learning**. I develop fast, efficient, and interpretable algorithms for solving large-scale imaging problems. My recent work spans:
 
