@@ -2,7 +2,7 @@
 layout: page
 title: Kernel Density Steering for Image Restoration
 description: Training-free inference-time guidance for diffusion models
-importance: 1
+importance: 2
 category: work
 related_publications: hu2025kds
 ---

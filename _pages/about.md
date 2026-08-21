@@ -25,6 +25,6 @@ latest_posts:
   enabled: false
 ---
 
-I am a Research Scientist in the Computational Imaging team at Google, working on generative models for images and video. I received my Ph.D. from Washington University in St. Louis, advised by <a href="https://ukmlv.github.io/">Prof. Ulugbek Kamilov</a>, and previously worked at Google as a Student Researcher and at Mitsubishi Electric Research Laboratories (MERL) as a Research Intern.
+I am a Research Scientist in the Computational Imaging team at Google, working on generative models for images and video, and a core contributor to <a href="https://gemini.google/overview/video-generation/">Gemini Omni</a>, Google's multimodal video generation and editing model. I received my Ph.D. from Washington University in St. Louis, advised by <a href="https://ukmlv.github.io/">Prof. Ulugbek Kamilov</a>, and previously worked at Google as a Student Researcher and at Mitsubishi Electric Research Laboratories (MERL) as a Research Intern.
 
 My research is on diffusion and flow-based generative models: how to sample from them efficiently, how to steer them at inference time, and how to use them for conditional generation — image and video restoration, computational imaging, and medical imaging.

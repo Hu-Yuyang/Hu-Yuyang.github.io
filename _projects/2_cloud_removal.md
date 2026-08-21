@@ -2,7 +2,7 @@
 layout: page
 title: Multimodal Diffusion for Cloud Removal
 description: SAR-guided cloud removal from satellite imagery
-importance: 2
+importance: 3
 category: work
 related_publications: hu2025tgrs
 ---

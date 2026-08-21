@@ -2,7 +2,7 @@
 layout: page
 title: Self-Supervised Medical Image Reconstruction
 description: Reconstruction without ground-truth training data
-importance: 4
+importance: 5
 category: work
 related_publications: hu2024spicer, gan2021iccvw
 ---

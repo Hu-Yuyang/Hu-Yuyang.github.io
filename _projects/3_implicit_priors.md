@@ -2,7 +2,7 @@
 layout: page
 title: Restoration and Diffusion-Bridge Priors
 description: Turning pre-trained restoration networks into generative priors
-importance: 3
+importance: 4
 category: work
 related_publications: hu2024iclr, hu2025sharp, hu2026adobi
 ---
