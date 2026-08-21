@@ -13,7 +13,7 @@ profile:
     <p><b>Location</b> Mountain View, CA</p>
     <p><b>Google Scholar</b> <a href="https://scholar.google.com/citations?user=FvRrgTsAAAAJ&hl=en">Profile</a></p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
