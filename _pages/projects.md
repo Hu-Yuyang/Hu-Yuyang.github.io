@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected research projects on computational imaging, generative models, and inverse problems.
+description: Selected research projects on generative models, image restoration, and computational imaging.
 nav: true
 nav_order: 2
 display_categories: [work]
