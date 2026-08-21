@@ -13,6 +13,9 @@
   url: https://iclr.cc/
   color: "#0f766e"
 
+"ECCV":
+  color: "#c2410c"
+
 "IEEE TCI":
   color: "#00369f"
 
