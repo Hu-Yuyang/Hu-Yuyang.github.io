@@ -25,13 +25,6 @@ latest_posts:
   enabled: false
 ---
 
-I am a Research Scientist in the Computational Imaging team at Google. I received my Ph.D. in Electrical Engineering from the Department of Electrical & Systems Engineering at Washington University in St. Louis, advised by <a href="https://ukmlv.github.io/">Prof. Ulugbek Kamilov</a>. Before joining Google full-time, I was a Student Researcher at Google and a Research Intern at Mitsubishi Electric Research Laboratories (MERL).
+I am a Research Scientist in the Computational Imaging team at Google. I received my Ph.D. from Washington University in St. Louis, advised by <a href="https://ukmlv.github.io/">Prof. Ulugbek Kamilov</a>, and previously worked at Google as a Student Researcher and at Mitsubishi Electric Research Laboratories (MERL) as a Research Intern.
 
-My research focuses on **computational imaging**, **image/video generative models**, and **deep learning**. I develop fast, efficient, and interpretable algorithms for solving large-scale imaging problems. My recent work spans:
-
-- **Inference-time scaling** for diffusion models in image restoration (NeurIPS 2025)
-- **Restoration priors** that generalize regularization-by-denoising to leverage pre-trained restoration networks and diffusion bridges (ICLR 2024, ICML 2025, IEEE TCI 2026)
-- **Multimodal diffusion models** for computational imaging and remote sensing (IEEE TGRS 2025)
-- **Self-supervised learning** for MRI reconstruction without ground truth (MRM 2024, ICCVW 2021)
-
-**Research Interests:** Image/Video Generative Models, Computational Imaging, Inverse Problems, Image Restoration, Deep Learning
+My research develops fast, efficient, and interpretable algorithms for large-scale imaging problems: inference-time scaling for diffusion models, restoration and diffusion-bridge priors for inverse problems, and self-supervised learning for MRI reconstruction.
