@@ -1,9 +1,43 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+# Colors (and optional links) for the venue badges shown in the publication list.
+# Keys must match the `abbr` field in _bibliography/papers.bib.
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#8b5cf6"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#0ea5e9"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#0f766e"
+
+"IEEE TCI":
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IEEE TGRS":
+  color: "#047857"
 
-"Vision":
-  color: "#009f36"
+"IEEE JSAIT":
+  color: "#1d4ed8"
+
+"JMIV":
+  url: https://link.springer.com/journal/10851
+  color: "#b45309"
+
+"MRM":
+  url: https://onlinelibrary.wiley.com/journal/15222594
+  color: "#be123c"
+
+"ISBI":
+  color: "#7c3aed"
+
+"ICIP":
+  color: "#334155"
+
+"ICCVW":
+  color: "#6d28d9"
+
+"Patent":
+  color: "#525252"

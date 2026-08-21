@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Hu-Yuyang
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Hu-Yuyang/ShaRP_code
+  - Hu-Yuyang/ShaRP_MRI_code
+  - wustl-cig/DRP
+  - wustl-cig/scorepnp
+  - wustl-cig/MBDL_Pruning

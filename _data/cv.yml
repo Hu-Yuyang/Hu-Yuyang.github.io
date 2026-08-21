@@ -2,9 +2,9 @@ cv:
   name: Yuyang Hu
   label: Research Scientist
   email: h.yuyang@wustl.edu
-  location: St. Louis, MO
+  location: Mountain View, CA
   image: ""
-  summary: Research Scientist at Google. Ph.D. student in Electrical Engineering at Washington University in St. Louis. Research focus on computational imaging, inverse problems, and deep learning.
+  summary: Research Scientist in the Computational Imaging team at Google. Ph.D. in Electrical Engineering from Washington University in St. Louis. Research focus on computational imaging, inverse problems, image/video generative models, and deep learning.
 
   social_networks:
     - network: Google Scholar
@@ -21,20 +21,12 @@ cv:
         url: https://wustl.edu/
         area: Electrical Engineering
         studyType: PhD
-        start_date: 2022
+        start_date: 2022-08
         end_date: 2026
         highlights:
+          - Department of Electrical & Systems Engineering
           - Advised by Prof. Ulugbek Kamilov
           - Dean's Select PhD Fellowship
-
-      - institution: Washington University in St. Louis
-        location: St. Louis, MO
-        area: Electrical Engineering
-        studyType: MS
-        start_date: 2020
-        end_date: 2022
-        highlights:
-          - Outstanding Master's Research Award
 
     Experience:
       - company: Google
