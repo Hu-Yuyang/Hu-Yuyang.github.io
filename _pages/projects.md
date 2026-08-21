@@ -2,8 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description: Selected research projects on computational imaging, generative models, and inverse problems.
+nav: true
+nav_order: 2
 display_categories: [work]
 horizontal: false
 ---
