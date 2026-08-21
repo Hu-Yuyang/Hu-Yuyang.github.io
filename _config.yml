@@ -13,7 +13,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: image generation, video generation, generative models, diffusion models, image restoration, video restoration, computational imaging, medical imaging, deep learning
+keywords: image generation, video generation, generative models, diffusion models, flow matching, multimodal models, model distillation, image restoration, computational imaging, medical imaging, deep learning
 lang: en
 icon: 🔬
 
